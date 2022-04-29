@@ -5,6 +5,7 @@ Français :
 Voici un simple site de présentation assez moderne, dessus vous y retrouverez des lien discord et donnation mais aussi des acse d'information !
 
 Screenshot :
+
 fr : Attention le screen est dézoomer
 
 en : Attention the screen is zoomed out
