@@ -6,6 +6,7 @@ Voici un simple site de présentation assez moderne, dessus vous y retrouverez d
 
 Screenshot :
 fr : Attention le screen est dézoomer
+
 en : Attention the screen is zoomed out
 
-https://i.imgur.com/oUXhjTR.png
+https://imgur.com/oUXhjTR
